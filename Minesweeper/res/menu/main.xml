@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+  <item 
+        android:id="@+id/action_bombs_remaining"
+        android:showAsAction="always|withText"
+        android:gravity="center"
+        android:actionLayout="@layout/action_remaining_bombs"
+        android:title="@string/action_bombs_remaining"/>
+    
+    <item 
+        android:id="@+id/action_new_game"
+        android:icon="@drawable/ic_action_new"
+        android:showAsAction="always"
+        android:title="@string/action_new_game" />
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+
+</menu>

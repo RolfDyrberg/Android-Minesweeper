@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/action_bombs_remaining_textview"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:textSize="22sp"
+    android:gravity="center_vertical|center_horizontal"
+    android:textStyle="bold"
+    android:text="@string/action_bombs_remaining_value_placeholder" >
+    
+    
+</TextView>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Minesweeper</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_new_game">New Game</string>
+    <string name="action_bombs_remaining">Bombs remaining</string>
+    <string name="action_bombs_remaining_value_placeholder">--</string>
+    
+    <string name="pref_rows">Number of rows</string>
+    <string name="pref_columns">Number of columns</string>
+    <string name="pref_bombs">Number of bombs</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>

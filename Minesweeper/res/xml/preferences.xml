@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    
+    <EditTextPreference
+        android:key="pref_rows"
+        android:title="@string/pref_rows"
+        android:inputType="number"
+        android:defaultValue="10" />
+    
+    <EditTextPreference
+        android:key="pref_columns"
+        android:title="@string/pref_columns"
+        android:inputType="number"
+        android:defaultValue="10" />
+    
+     <EditTextPreference
+        android:key="pref_bombs"
+        android:title="@string/pref_bombs"
+        android:inputType="number"
+        android:defaultValue="10" />
+
+</PreferenceScreen>
